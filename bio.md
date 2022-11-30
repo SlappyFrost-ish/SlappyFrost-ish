@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SlappyFrost-ish
+- 👀 I’m interested in Web Development, Data Science, Electronics.
+- 🌱 I’m currently learning Python, JavaScript.
+- 💞️ I’m looking to collaborate on anything that can help improve my skillset.
+- 📫 How to reach me: Feel free to send a DM!
